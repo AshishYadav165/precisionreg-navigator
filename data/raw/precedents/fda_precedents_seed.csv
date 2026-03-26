@@ -1,0 +1,21 @@
+trade_name,sponsor,disease_use,biomarker,platform,specimen_type,route,submission_number,cdx_flag,summary_url
+FoundationOne CDx,Foundation Medicine,Tumor Profiling,Multiple biomarkers,NGS targeted panel,FFPE tissue,PMA,P170019,True,https://www.fda.gov/
+Guardant360 CDx,Guardant Health,Tumor Profiling; NSCLC,Multiple biomarkers,Liquid biopsy,Plasma,PMA,P200010,True,https://www.fda.gov/
+MSK-IMPACT,Memorial Sloan Kettering,Tumor Profiling,Multiple biomarkers,NGS targeted panel,FFPE tissue,De Novo,DEN170058,False,https://www.fda.gov/
+Tempus xT CDx,Tempus,Tumor Profiling,Multiple biomarkers,NGS targeted panel,FFPE tissue,PMA,P210011,True,https://www.fda.gov/
+FoundationOne Liquid CDx,Foundation Medicine,Tumor Profiling,Multiple biomarkers,Liquid biopsy,Plasma,PMA,P190032,True,https://www.fda.gov/
+Oncomine Dx Target Test,Thermo Fisher Scientific,NSCLC,Multiple biomarkers,NGS targeted panel,FFPE tissue,PMA,P160045,True,https://www.fda.gov/
+cobas EGFR Mutation Test v2,Roche Molecular Systems,NSCLC,EGFR,PCR,Plasma,PMA,P150047,True,https://www.fda.gov/
+therascreen EGFR RGQ PCR Kit,Qiagen,NSCLC,EGFR,PCR,FFPE tissue,PMA,P120022,True,https://www.fda.gov/
+LeukoStrat CDx FLT3 Mutation Assay,Invivoscribe,Acute Myeloid Leukemia,FLT3,PCR,Whole blood,PMA,P160040,True,https://www.fda.gov/
+FoundationOne Heme,Foundation Medicine,Hematologic Malignancies,Multiple biomarkers,NGS targeted panel,Bone marrow,Not specified,NA,False,https://www.fda.gov/
+Myriad myChoice CDx,Myriad Genetics,Ovarian Cancer,BRCA/HRD,NGS targeted panel,FFPE tissue,PMA,P190014,True,https://www.fda.gov/
+BRACAnalysis CDx,Myriad Genetics,Ovarian Cancer,BRCA1/BRCA2,PCR,Blood,PMA,P140020,True,https://www.fda.gov/
+Praxis Extended RAS Panel,Illumina,Colorectal Cancer,RAS,NGS targeted panel,FFPE tissue,PMA,P160038,True,https://www.fda.gov/
+therascreen KRAS RGQ PCR Kit,Qiagen,Colorectal Cancer,KRAS,PCR,FFPE tissue,PMA,P110027,True,https://www.fda.gov/
+VENTANA MMR RxDx Panel,Roche Tissue Diagnostics,Endometrial Cancer,MMR,IHC,FFPE tissue,PMA,P200019,True,https://www.fda.gov/
+FoundationOne Liquid CDx,Foundation Medicine,Pan-tumor,Multiple biomarkers,Liquid biopsy,Plasma,PMA,P200006,True,https://www.fda.gov/
+PGDx elio tissue complete,Personal Genome Diagnostics,Tumor Profiling,Multiple biomarkers,NGS targeted panel,FFPE tissue,510(k),K192063,False,https://www.fda.gov/
+TruSight Oncology Comprehensive,Illumina,Tumor Profiling,Multiple biomarkers,NGS targeted panel,FFPE tissue,PMA,P230011,False,https://www.fda.gov/
+Guardant360 CDx,Guardant Health,NSCLC,Multiple biomarkers,Liquid biopsy,Plasma,PMA,P200010,True,https://www.fda.gov/
+xT CDx,Tempus,Pan-tumor,Multiple biomarkers,NGS targeted panel,FFPE tissue,PMA,P210011,True,https://www.fda.gov/

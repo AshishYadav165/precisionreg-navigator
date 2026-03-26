@@ -1,0 +1,16 @@
+streamlit
+langgraph
+langchain
+langchain-core
+langchain-community
+pydantic
+python-dotenv
+faiss-cpu
+pandas
+numpy
+sqlalchemy
+sentence-transformers
+pypdf
+tqdm
+anthropic
+pytest
